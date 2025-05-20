@@ -54,7 +54,7 @@ Clone the project
 
 3.Create a .env file and add:
 ```bash
-  PORT=5000
+  PORT=8000
   MONGODB_URI='your-mongodb-connection-string'
   JWT_SECRET='your-secret-key'
   CLIENT_URL='your-url'
